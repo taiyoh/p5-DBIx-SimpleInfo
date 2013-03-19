@@ -1,0 +1,8 @@
+#!perl
+# This file is managed by /Users/tanaka-hirotaka/.plenv/versions/5.16.2/bin//dim.
+{
+  dist => 'DBIx::SimpleInfo',
+  distdir => 'DBIx-SimpleInfo',
+  module => 'DBIx::SimpleInfo',
+  template => 'Default'
+}
